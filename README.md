@@ -38,7 +38,6 @@ Are you looking to enhance your data storytelling skills and create compelling, 
 
 ### Supporting Material
 - 📘 **The book** [Data Storytelling with Altair and AI](https://www.manning.com/books/data-storytelling-with-altair-and-ai)
-- ![Book Cover](https://images.manning.com/360/480/resize/book/d/ee8de26-d578-4aa6-8fd9-d8ab65fc77b4/LoDuca-HI.png)
 - 📄 Tutorial slides and sample notebooks.
 - 📽️ A supplementary video tutorial demonstrating key concepts.
 
