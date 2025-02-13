@@ -45,5 +45,5 @@ Are you looking to enhance your data storytelling skills and create compelling, 
 📢 **Join us at HHAI 2025 and take your data storytelling to the next level!**
 
 🔗 For more details, visit: [HHAI 2025 Website](https://hhai-conference.org/2025/)  
-📝 **Registration Form:** [Register here](#) (non-binding, for participation estimation)
+📝 **Registration Form:** [Register here](https://forms.gle/rguMqYAZQEkvVKD98) (non-binding, for participation estimation)
 
