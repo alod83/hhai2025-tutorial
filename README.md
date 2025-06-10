@@ -1,6 +1,5 @@
-# Call for Participation
+# Tutorial: Data Storytelling with Python and AI
 
-## Tutorial: Data Storytelling with Python and AI
 
 📅 **June 9-13, 2025** | 📍 **Pisa, Italy**  
 Part of **HHAI 2025 – The 4th International Conference on Hybrid Human-Artificial Intelligence**
